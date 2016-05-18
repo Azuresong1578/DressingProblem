@@ -1,0 +1,6 @@
+c:\users\alienware\documents\visual studio 2015\Projects\DressingProblem\DressingProblem\bin\Debug\DressingProblem.exe.config
+C:\Users\ALIENWARE\Documents\Visual Studio 2015\Projects\DressingProblem\DressingProblem\bin\Debug\DressingProblem.exe
+C:\Users\ALIENWARE\Documents\Visual Studio 2015\Projects\DressingProblem\DressingProblem\bin\Debug\DressingProblem.pdb
+C:\Users\ALIENWARE\Documents\Visual Studio 2015\Projects\DressingProblem\DressingProblem\obj\Debug\DressingProblem.csprojResolveAssemblyReference.cache
+C:\Users\ALIENWARE\Documents\Visual Studio 2015\Projects\DressingProblem\DressingProblem\obj\Debug\DressingProblem.exe
+C:\Users\ALIENWARE\Documents\Visual Studio 2015\Projects\DressingProblem\DressingProblem\obj\Debug\DressingProblem.pdb
